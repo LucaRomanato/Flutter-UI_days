@@ -1,6 +1,6 @@
 # FlutterUI-day1
 
-first UI with flutter in this  -*i don't know how many*- quarantene days
+second UI with flutter in this  -*i don't know how many*- quarantene days
 
 ## Getting Started
 
@@ -22,6 +22,6 @@ Just open the cloned repository and start the emulator
 I only tested the UI on an android emulator but also on iOS emulator should work fine
 
 # Snapshot
-<img src="./snapshot.png" width="170" height="300">
-
-images are taken from: https://unsplash.com/
+<img src="./snapshot1.png" width="170" height="300">
+<img src="./snapshot2.png" width="170" height="300">
+<img src="./snapshot3.png" width="170" height="300">
